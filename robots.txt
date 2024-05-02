@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lascott.github.io/sitemap.xml
+Sitemap: https://lascott.github.io/floreat-ars//sitemap.xml
