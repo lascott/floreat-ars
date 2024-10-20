@@ -46,7 +46,7 @@
       "url": "",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "Provides data-centric, AI, expert and logistical services for the common good.  Its mission includes helping non profit entities and government entities to utilize data in alignment with their goals.",
       "highlights": [""]
     }
   ],
@@ -73,12 +73,40 @@
   ],
   "publications": [
     {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    }
+      "name": "Multi-Asset Class Factor Premia: A strategic asset allocation perspective.",
+      "publisher": "Journal of Portfolio Management.",
+      "releaseDate": "Spring 2022",
+      "url": "https://www.pm-research.com/content/iijpormgmt/48/4/14",
+      "summary": "In this article, the authors explore the benefits of strategic allocations to factor premia for long-horizon investors. They consider single-asset-class and multi-asset-class factor premia overlays to underlying equity–bond investments. The benefits of the overlays are assessed across the accumulation and decumulation stages of an investor’s lifecycle. Their analysis suggests that factor premia provide notable benefits by increasing the likelihood of achieving accumulation goals, smoothing the transition path to achieving those goals, and enhancing decumulation outcomes."
+    },
+    {
+      "name": "Equity factors for multi-asset class portfolios: A strategic asset allocation perspective.",
+      "publisher": "Journal of Asset Management",
+      "releaseDate": "2022",
+      "url": "https://link.springer.com/article/10.1057/s41260-022-00262-4",
+      "summary": "This paper highlights the long run, strategic benefits of factor premia as a complement (overlay) to an underlying exposure to equities and bonds. We provide a utility-based framework for evaluating alternative strategies and in particular account for the impact of extreme and undesirable events to long run wealth accumulation. We present evidence suggesting that an overlay of equity premia to a reference portfolio can enhance the likelihood of achieving wealth accumulation goals and can smooth the transition path to achieving those goals. These results can be attributed to both long positions and short positions in contrast to recent findings suggesting shorts fail to add value. The benefits of the factor premia overlay additionally extend to the decumulation or retirement stage as reflected in an enhancement to the coverage ratio. Taken together, these findings suggest that the equity factor premia strategies we present can be utilized to support welfare enhancing gains."
+    },
+    {
+      "name": "Exploiting the Countercyclical Properties of Momentum and other Factor Premia—A Cross-Country Perspective.",
+      "publisher": "Market Momentum: Theory and Practice, Wiley",
+      "releaseDate": "2020",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119599364.ch11",
+      "summary": "The research presented in this chapter extends and corroborates the findings of Scott and Cavaglia (2016) who first illustrated the potential benefits of a factor premia overlay to an inter-temporal wealth accumulation strategy that is fully invested in equities. We examine a panel of 5 local factor premia (inclusive of momentum) in each of 21 developed equity markets and 5 regions. In nearly all instances we find that wealth accumulation is significantly enhanced by a time invariant, equal weighted allocation to these premia. The enhancement is driven in part by the mean return of the premia but more importantly by their generally positive payoff in adverse market environments. The quality and momentum factor premia are the largest contributors to this result. Applying conventional measures of risk aversion we quantify the importance of downside protection to supporting the attainment of investors' goals; the utility-based evidence suggests that some factor premia are valued by investors even when their expected return is zero."
+    },
+    {
+      "name": "Momentum, Value, and Carry Commodity Factors for Multi-Asset Portfolios.",
+      "publisher": "Market Momentum: Theory and Practice, Wiley",
+      "releaseDate": "2020",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119599364.ch17",
+      "summary": "This chapter examines the use of commodity factors in a portfolio context, aimed at customising a portfolio for specific clients. A critical question is whether the inclusion of a factor overlay, such as momentum, carry or value, or a combination of these factors, can improve outcomes for aspiring retirees, compared to the simple approach of investing in a portfolio of equities and/or bonds. Using a bootstrap simulation approach, allowing for alternative scenarios for the performance of the assets and factors, it is found that the incorporation of a single factor overlay enhances the likelihood of an aspiring retiree achieving her goal. A combination of factors in the overlay provides additional diversification benefits for the more risk-averse retiree. It is argued that, due to time diversification over the business cycle, factor overlays enhance accumulated wealth net of costs"
+    },
+    {
+      "name": "A wealth management perspective on Factor Premia and the Value of Downside Protection. ",
+      "publisher": "Journal of Portfolio Management.",
+      "releaseDate": "Spring 2017",
+      "url": "https://www.pm-research.com/content/iijpormgmt/43/3/33",
+      "summary": "In this article, the authors show the benefits of a factor premia overlay to an intertemporal wealth accumulation strategy that is fully invested in global equities. Their simulation results suggest that wealth accumulation is significantly enhanced by a time invariant, equal-weighted allocation to conventional factor premia. The enhancement is driven in part by the mean return of the premia but, more importantly, by their generally positive payoff in adverse market environments. The authors estimate the value of downside protection provided by premia in this context and show that it is economically important. Factor-premia-based strategies provide a challenge to skill-based asset allocation strategies that aim to tactically shift the portfolio’s exposure to market risk and highlight the multiperiod importance of style management."
+    }    
   ],
   "skills": [
     {
@@ -109,7 +137,7 @@
   ],
   "interests": [
     {
-      "name": "",
+      "name": "Astrophysics",
       "icon": "fa-solid fa-tag",
       "keywords": [ ]
     }
