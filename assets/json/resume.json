@@ -71,16 +71,6 @@
       "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": "fa-solid fa-location-dot"
-    }
-    # "fa-solid fa-tag fa-envelope fa-hashtag fa-calendar fa-clipboard-check"
-  ],
   "publications": [
     {
       "name": "",
