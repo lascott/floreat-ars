@@ -22,9 +22,7 @@ He was previously Head of FactSet's Risk and Quantitative Research, managing the
 
 He serves as a member of the London Quant Group's informal management committee. He is a mathematician trained at Brown and MIT. His research interests include the dynamics of returns across countries, industries and asset classes, and optimal forecast selection methods.
 
-[//]: # (
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+[//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
