@@ -114,8 +114,8 @@
       "keywords": [ ]
     }
   ],
-  # "references": [ {"name": "Professor John Doe", "icon": "fa-solid fa-laptop", "reference": "Lorem ipsum dolor sit amet"},
-  #  {"name": "Professor John Doe", "icon": "fa-solid fa-thumbtack","reference": "Lorem ipsum dolor sit amet"}],
+  "references": [ {"name": "Professor John Doe", "icon": "fa-solid fa-laptop", "reference": "Lorem ipsum dolor sit amet"},
+    {"name": "Professor John Doe", "icon": "fa-solid fa-thumbtack","reference": "Lorem ipsum dolor sit amet"}],
   "projects": [
     {
       "name": "",
