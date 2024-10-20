@@ -25,7 +25,7 @@ jobs:
         id: prettier
         run: npx prettier . --check
       - name: Prettier Fix 🔎
-        id: prettier
+        id: prettierfix
         run: npx prettier . --write
       - name: Create diff 📝
         # https://docs.github.com/en/actions/learn-github-actions/expressions#failure
